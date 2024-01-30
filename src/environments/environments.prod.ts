@@ -1,3 +1,3 @@
 export const environments = {
-  baseUrl: 'https://laura-alarcon/api'
+  baseUrl: 'https://tigralaw/api'
 }
