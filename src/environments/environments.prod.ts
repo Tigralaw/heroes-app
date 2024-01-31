@@ -1,4 +1,4 @@
 export const environments = {
   production: true,
-  baseUrl: 'https://tigralaw/api'
+  baseUrl: 'https://tigralaw.github.io'
 }
