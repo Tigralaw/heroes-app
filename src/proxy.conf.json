@@ -1,6 +1,0 @@
-{
-  "/api": {
-    "target": "https://tigralaw.github.io/heroes-app",
-    "secure": false
-  }
-}
